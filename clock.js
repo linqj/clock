@@ -39,7 +39,6 @@ function drawBackground(){
         ctx.fill();
     }
 }
-
 function drawHour(hour,minute){
     ctx.save();
     ctx.beginPath();
